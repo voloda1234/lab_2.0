@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab_2.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42904884-9B2D-4AF2-8401-CADE4E020C90}|lab_2.0\\lab_2.0.vcxproj|C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab_2.0\\lab_2.0\\Git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42904884-9B2D-4AF2-8401-CADE4E020C90}|lab_2.0\\lab_2.0.vcxproj|solutionrelative:lab_2.0\\Git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42904884-9B2D-4AF2-8401-CADE4E020C90}|lab_2.0\\lab_2.0.vcxproj|C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab_2.0\\lab_2.0\\lab_2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42904884-9B2D-4AF2-8401-CADE4E020C90}|lab_2.0\\lab_2.0.vcxproj|solutionrelative:lab_2.0\\lab_2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Git.cpp",
+              "DocumentMoniker": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab_2.0\\lab_2.0\\Git.cpp",
+              "RelativeDocumentMoniker": "lab_2.0\\Git.cpp",
+              "ToolTip": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab_2.0\\lab_2.0\\Git.cpp",
+              "RelativeToolTip": "lab_2.0\\Git.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T16:33:51.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab_2.0.cpp",
               "DocumentMoniker": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab_2.0\\lab_2.0\\lab_2.0.cpp",
               "RelativeDocumentMoniker": "lab_2.0\\lab_2.0.cpp",
               "ToolTip": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab_2.0\\lab_2.0\\lab_2.0.cpp",
               "RelativeToolTip": "lab_2.0\\lab_2.0.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-23T16:24:26.673Z",
               "EditorCaption": ""
